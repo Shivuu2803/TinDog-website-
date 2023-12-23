@@ -62,6 +62,6 @@ Contributions are welcome, whether they involve fixing bugs, improving existing 
 
 <h2>License</h2>
 This project is licensed under the MIT License - see the LICENSE file for details.
-
+<br>
 
 This detailed README provides a comprehensive overview of the Tindog project, including its features, installation instructions, usage guidelines, contributing information, and licensing details. Feel free to adjust it further based on your preferences and project specifics.
